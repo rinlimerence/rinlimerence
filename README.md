@@ -13,7 +13,7 @@ Pronouns: She/Her
 Location: Saint-Petersburg, RU
 Frameworks: Node.js
 Languages: JavaScript
-Learning: Python
+Learning: TypeScript, MongoDB
 Hobbies: Gaming, Reading, Anime
 Quote: Time to mix drinks and change lives.
 ```
