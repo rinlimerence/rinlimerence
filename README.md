@@ -7,9 +7,9 @@
 ```csharp
 honeymiko@github
 -------------------------
-OS: Windows 10 x86_64
-Terminal: Powershell
-Shell: Oh-My-Posh
+OS: MacOS 11.6.6
+Terminal: iTerm2
+Shell: zsh
 IDE: JetBrains
 Pronouns: She/Her/Hers
 Location: Saint-Petersburg, RU
