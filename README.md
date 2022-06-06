@@ -7,7 +7,7 @@
 ```csharp
 honeymiko@github
 -------------------------
-OS: MacOS 11.6.6
+OS: MacOS 12.4
 Terminal: iTerm2
 Shell: zsh
 IDE: JetBrains
