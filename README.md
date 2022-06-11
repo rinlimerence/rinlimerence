@@ -7,7 +7,7 @@
 ```javascript
 honeymiko@github
 -------------------------
-OS: "MacOS Monterey (12.4)",
+System: "macOS Monterey 12.4",
 Pronouns: "She/Her/Hers",
 Location: "Saint-Petersburg, RU",
 Frameworks: "Node.js",
