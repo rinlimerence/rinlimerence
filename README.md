@@ -2,20 +2,18 @@
 > neofetch
 ```
 
-<img align="left" src="https://media.giphy.com/media/bM7czHpJz3SYW7yxEc/giphy.gif" alt="" width="320" /> 
+<img align="left" src="https://c.tenor.com/6SuQfih0yswAAAAC/arknights-kurotofu.gif" alt="" width="320" /> 
 
-```csharp
+```javascript
 honeymiko@github
 -------------------------
-OS: MacOS 12.4
-Terminal: iTerm2
-Shell: zsh
-IDE: JetBrains
-Pronouns: She/Her/Hers
-Location: Saint-Petersburg, RU
-Frameworks: Node.js
-Languages: JavaScript
-Learning: TypeScript, MongoDB
-Hobbies: Gaming, Reading, Anime
-Quote: Time to mix drinks and change lives.
+OS: "MacOS Monterey (12.4)",
+Pronouns: "She/Her/Hers",
+Location: "Saint-Petersburg, RU",
+Frameworks: "Node.js",
+Tools: "MongoDB, Docker",
+Languages: "JavaScript, TypeScript",
+Learning: "Java",
+Hobbies: "Gaming, Reading, Anime",
+Quote: "Time to mix drinks and change lives."
 ```
