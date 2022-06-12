@@ -7,7 +7,7 @@
 ```javascript
 honeymiko@github
 -------------------------
-System: "macOS Monterey 12.4",
+System: "macOS Monterey 12.4 and Windows 10 (dualboot)"
 Pronouns: "She/Her/Hers",
 Location: "Saint-Petersburg, RU",
 Frameworks: "Node.js",
