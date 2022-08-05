@@ -17,4 +17,6 @@
 
 <h1 align="center">𝑯𝒂𝒗𝒆 𝒂 𝒏𝒊𝒄𝒆 𝒅𝒂𝒚!</h1>
 
-<img align="center" src="https://c.tenor.com/Cys16cEItYgAAAAC/background.gif" alt="" width="320" />
+<p align="center">
+<img src="https://c.tenor.com/Cys16cEItYgAAAAC/background.gif" />
+</p>
