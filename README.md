@@ -4,7 +4,7 @@
 
 <h1 align="center">𝑻𝒓𝒂𝒄𝒌𝒊𝒏𝒈 𝒎𝒚 𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 𝒐𝒏 𝑮𝒊𝒕𝑯𝒖𝒃</h1>
 
-![honeymiko GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
+![honeymiko GitHub stats](https://github-readme-stats.vercel.app/api?username=honeymiko&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
 <h1 align="center">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔!</h1>
 
