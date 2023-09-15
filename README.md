@@ -1,28 +1,31 @@
-<h1 align="center">𝑯𝒆𝒚, 𝑰'𝒎 𝑨𝒓𝒊𝒏𝒂 𝑫𝒊𝒐𝒓𝒅𝒊𝒚, 𝒂 𝒔𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓 𝒇𝒓𝒐𝒎 𝑼𝒌𝒓𝒂𝒊𝒏𝒆! :wave:</h1>
+<h1 align="center">Hey, i'm Arina Diordiy, a community manager of several projects and self-taught coder! :wave:</h1>
 
 <p align="center">
-<a href="https://honeymiko.github.io/" >
-<img src="https://lanyard.cnrad.dev/api/559442898878201866?animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121" />
-</a>
+<img src="https://lanyard.cnrad.dev/api/559442898878201866?animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"/>
 </p>
 
-<h1 align="center">𝑻𝒓𝒂𝒄𝒌𝒊𝒏𝒈 𝒎𝒚 𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 𝒐𝒏 𝑮𝒊𝒕𝑯𝒖𝒃</h1>
+<h1 align="center">Languages, systems and tools (including those I'm learning)</h1>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=honeymiko&count_private=true&show_icons=true&theme=synthwave&hide=contribs" />
-</p>
+  **Languages:**
 
-<h1 align="center">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔!</h1>
-
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h1 align="center">𝑯𝒂𝒗𝒆 𝒂 𝒏𝒊𝒄𝒆 𝒅𝒂𝒚! ヽ(>∀ <☆)ノ</h1>
+  **Systems:**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+  **Tools:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+
+<h1 align="center">Have a nice day! ❤ (ɔˆз(ˆ⌣ˆc)</h1>
 
 <p align="center">
-<img src="https://c.tenor.com/Cys16cEItYgAAAAC/background.gif" />
+<img src="https://cdn.discordapp.com/attachments/984018434058764288/1134733458745327635/Sakura_Blossom__Kny_X_Modern_Reader_.gif" />
 </p>
