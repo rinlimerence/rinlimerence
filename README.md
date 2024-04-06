@@ -15,5 +15,4 @@ Software: Node.js, Docker
 Languages: JavaScript, TypeScript
 Learning: Kubernetes
 Hobbies: Gaming, Reading, Anime
-Quote: Iguazu! How many ranks below you is G13? You can count right? Don’t take too long figuring it out, it’s a lot!
 ```
